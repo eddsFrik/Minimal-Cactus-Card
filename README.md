@@ -1,2 +1,2 @@
 # VanGraff000.github.io
-A Minimal Card Project made it with HTML and CSS
+A Minimal Card Project created with HTML and CSS
